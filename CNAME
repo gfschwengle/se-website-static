@@ -1,1 +1,9 @@
 schwengle-electronics.com
+<<<<<<< HEAD
+=======
+
+name: www
+Type: CNAME
+Value: gfschwengle.github.io.
+TTL: 3600
+>>>>>>> 0770daade0139844d11a6823fa2d279d906fbcde
